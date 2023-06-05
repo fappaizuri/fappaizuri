@@ -13,7 +13,9 @@ $LANG = array();
 $LANG["PLURAL_FORMS"] = "n != 1";
 $LANG["READMORE"] = "Read More...";
 $LANG["TORRENTFREAK"] = "TorrentFreak";
+// Rules-up Page
 $LANG["SITE_NAME"] = "Fappaizuri";
+$LANG["BOT_HELP_CHAN"] = "fappaizuri-help";
 //  Account Page
 $LANG["ACCEPTPM_WHICH_USERS"] = "Determines what users can send you private messages.";
 $LANG["ACCOUNT_ACTIVATED"] = "<p>Your account has been activated!<br />You can now login</p>";
