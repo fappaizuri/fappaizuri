@@ -16,7 +16,6 @@ begin_frame(T_("RULES_FOR_UPLOAD"));
   <br />
   <form class="search_form" name="rules" onsubmit="return false" action="">
     <input type="text" id="search_string" value="Filter (empty to reset)" />
-    <span id="Index">Example: The search term <strong>FLAC</strong> returns all rules containing <strong>FLAC</strong>. The search term <strong>FLAC+trump</strong> returns all rules containing both <strong>FLAC</strong> and <strong>trump</strong>.</span>
   </form>
   <br />
   <div class="before_rules">
